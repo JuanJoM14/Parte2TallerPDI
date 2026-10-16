@@ -1,0 +1,4 @@
+conjunto,fotos,fotos_1_pieza,fotos_2_o_mas,piezas,piezas_en_uso,piezas_que_tocan_borde,piezas_supera_256
+train,687,676,11,698,674,9,3
+val,144,142,2,146,144,2,1
+test,133,131,2,135,133,2,0

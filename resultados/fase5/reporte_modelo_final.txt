@@ -1,0 +1,12 @@
+Modelo final: E4 (forma + lbp), SVM lineal
+
+              precision    recall  f1-score   support
+
+   Brick_1x4     1.0000    1.0000    1.0000        29
+ Brick_2x2_L     1.0000    1.0000    1.0000        54
+   Plate_2x2     1.0000    1.0000    1.0000        23
+   Plate_2x4     1.0000    1.0000    1.0000        27
+
+    accuracy                         1.0000       133
+   macro avg     1.0000    1.0000    1.0000       133
+weighted avg     1.0000    1.0000    1.0000       133

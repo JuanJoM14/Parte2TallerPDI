@@ -1,0 +1,37 @@
+{
+  "modelo_final": {
+    "experimento": "E4",
+    "descriptores": "forma + lbp",
+    "clasificador": "svm_lineal",
+    "parametros": {
+      "C": 0.1
+    }
+  },
+  "accuracy_prueba": 1.0,
+  "f1_macro_prueba": 1.0,
+  "errores_prueba": 0,
+  "auc": {
+    "Brick_1x4": 1.0,
+    "Brick_2x2_L": 1.0,
+    "Plate_2x2": 1.0,
+    "Plate_2x4": 1.0,
+    "macro": 1.0
+  },
+  "galeria_modelo_final": "sin errores; piezas de menor confianza",
+  "errores_E1": 0,
+  "curva_aprendizaje_ultimo_punto": {
+    "piezas_entrenamiento": 533,
+    "f1_entrenamiento_media": 0.9993,
+    "f1_entrenamiento_desv": 0.0014,
+    "f1_validacion_cruzada_media": 0.9942,
+    "f1_validacion_cruzada_desv": 0.0051
+  },
+  "matrices": [
+    "E1_svm_lineal",
+    "E2_svm_lineal",
+    "E3_random_forest",
+    "E4_svm_lineal",
+    "E5_svm_lineal"
+  ],
+  "modelos_sin_cambios": true
+}

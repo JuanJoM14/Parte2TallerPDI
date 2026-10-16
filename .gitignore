@@ -1,0 +1,23 @@
+# Entorno y archivos temporales de Python
+.venv/
+__pycache__/
+*.pyc
+
+# Banco original de Kaggle: se descarga aparte (ver README, sección 3)
+datos_originales/
+
+# Notas internas de trabajo
+documentacion/
+
+# Modelos: solo se suben el final y los de E4 (los demás se regeneran con Codigo/entrenar.py)
+modelos/*
+!modelos/modelo_final.joblib
+!modelos/modelo_final.json
+!modelos/E4_svm_lineal.joblib
+!modelos/E4_svm_rbf.joblib
+!modelos/E4_random_forest.joblib
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store

@@ -1,0 +1,46 @@
+{
+  "componentes_pca_hog_95": 494,
+  "combinaciones_probadas": 135,
+  "modelo_final": {
+    "experimento": "E4",
+    "descriptores": "forma + lbp",
+    "clasificador": "svm_lineal",
+    "parametros": {
+      "C": 0.1
+    },
+    "columnas": 39,
+    "componentes_pca": "",
+    "accuracy_val": 1.0,
+    "f1_macro_val": 1.0,
+    "errores_val": 0,
+    "modelo": "E4_svm_lineal.joblib",
+    "entrada": "vector completo de 8139 columnas en el orden de caracteristicas\\*.npz",
+    "clases": [
+      "Brick_1x4",
+      "Brick_2x2_L",
+      "Plate_2x2",
+      "Plate_2x4"
+    ]
+  },
+  "importancia_por_bloque": [
+    {
+      "bloque": "hog",
+      "columnas": 8100,
+      "importancia_total": 0.8649,
+      "importancia_media_por_columna": 0.000107
+    },
+    {
+      "bloque": "forma",
+      "columnas": 11,
+      "importancia_total": 0.1169,
+      "importancia_media_por_columna": 0.010631
+    },
+    {
+      "bloque": "lbp",
+      "columnas": 28,
+      "importancia_total": 0.0182,
+      "importancia_media_por_columna": 0.000649
+    }
+  ],
+  "test_npz_abierto": false
+}

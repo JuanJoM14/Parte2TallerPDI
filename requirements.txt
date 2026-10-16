@@ -1,0 +1,18 @@
+# Bibliotecas de la preparación y de los futuros módulos de la Parte 1
+opencv-python==5.0.0.93
+numpy==2.5.3
+matplotlib==3.11.2
+pandas==3.0.6
+scikit-image==0.26.0
+
+# Kernel de Jupyter y ejecución/validación del notebook
+ipykernel==7.4.0
+nbformat==5.11.1
+nbclient==0.11.0
+
+# Parte 2: clasificación (fases 3 y 4)
+scikit-learn==1.9.1
+joblib==1.6.0
+
+# Parte 2: aplicación (fase 6)
+streamlit==1.66.0

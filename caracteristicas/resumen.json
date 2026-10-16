@@ -1,0 +1,19 @@
+{
+  "dim_hog": 8100,
+  "dim_forma": 11,
+  "dim_lbp": 28,
+  "dim_total": 8139,
+  "hog": {
+    "orientations": "9",
+    "pixels_per_cell": "(8, 8)",
+    "cells_per_block": "(2, 2)",
+    "block_norm": "L2-Hys",
+    "feature_vector": "True"
+  },
+  "lbp": "uniform; escalas (P, R) = [(8, 1), (16, 2)]; un histograma normalizado por escala, dentro de la máscara",
+  "conteos": {
+    "train": 674,
+    "val": 144,
+    "test": 133
+  }
+}

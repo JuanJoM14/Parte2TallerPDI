@@ -1,0 +1,15 @@
+{
+  "segmentacion": "b1",
+  "fondo": {
+    "factor": 4,
+    "ventana": 63
+  },
+  "radio_min_px": 9,
+  "area_min_px": 150,
+  "filtro": "mediana_3",
+  "muestra2_aciertos": {
+    "a": 53,
+    "b0": 48,
+    "b1": 60
+  }
+}

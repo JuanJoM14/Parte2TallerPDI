@@ -1,0 +1,29 @@
+archivo,clase,conjunto,n_piezas,indice_pieza,nombre_roi,motivo
+2_Brick_1x4_180708231752.jpg,Brick_1x4,val,2,1,2_Brick_1x4_180708231752_p1.png,no es la central de una foto de dos piezas
+2_Brick_1x4_180714221325.jpg,Brick_1x4,train,2,1,2_Brick_1x4_180714221325_p1.png,foto de dos piezas: entrenamiento no usa ninguna; toca el borde
+2_Brick_1x4_180714221325.jpg,Brick_1x4,train,2,2,2_Brick_1x4_180714221325_p2.png,foto de dos piezas: entrenamiento no usa ninguna
+2_Brick_1x4_180714221944.jpg,Brick_1x4,train,2,1,2_Brick_1x4_180714221944_p1.png,foto de dos piezas: entrenamiento no usa ninguna
+2_Brick_1x4_180714221944.jpg,Brick_1x4,train,2,2,2_Brick_1x4_180714221944_p2.png,foto de dos piezas: entrenamiento no usa ninguna; toca el borde
+2_Brick_1x4_180714221946.jpg,Brick_1x4,train,2,1,2_Brick_1x4_180714221946_p1.png,foto de dos piezas: entrenamiento no usa ninguna
+2_Brick_1x4_180714221946.jpg,Brick_1x4,train,2,2,2_Brick_1x4_180714221946_p2.png,foto de dos piezas: entrenamiento no usa ninguna; toca el borde
+2_Brick_1x4_180714223219.jpg,Brick_1x4,train,2,1,2_Brick_1x4_180714223219_p1.png,foto de dos piezas: entrenamiento no usa ninguna
+2_Brick_1x4_180714223219.jpg,Brick_1x4,train,2,2,2_Brick_1x4_180714223219_p2.png,foto de dos piezas: entrenamiento no usa ninguna; toca el borde
+2_Plate_2x2_180708205110.jpg,Plate_2x2,val,2,1,2_Plate_2x2_180708205110_p1.png,no es la central de una foto de dos piezas
+2_Plate_2x4_180708192906.jpg,Plate_2x4,test,2,2,2_Plate_2x4_180708192906_p2.png,no es la central de una foto de dos piezas
+2_Plate_2x4_180708192909.jpg,Plate_2x4,test,2,2,2_Plate_2x4_180708192909_p2.png,no es la central de una foto de dos piezas
+2_Plate_2x4_180708193312.jpg,Plate_2x4,train,1,1,2_Plate_2x4_180708193312_p1.png,toca el borde
+2_Plate_2x4_180714154546.jpg,Plate_2x4,train,2,1,2_Plate_2x4_180714154546_p1.png,foto de dos piezas: entrenamiento no usa ninguna
+2_Plate_2x4_180714154546.jpg,Plate_2x4,train,2,2,2_Plate_2x4_180714154546_p2.png,foto de dos piezas: entrenamiento no usa ninguna
+2_Plate_2x4_180714154834.jpg,Plate_2x4,train,1,1,2_Plate_2x4_180714154834_p1.png,toca el borde
+2_Plate_2x4_180714155046.jpg,Plate_2x4,train,2,1,2_Plate_2x4_180714155046_p1.png,foto de dos piezas: entrenamiento no usa ninguna
+2_Plate_2x4_180714155046.jpg,Plate_2x4,train,2,2,2_Plate_2x4_180714155046_p2.png,foto de dos piezas: entrenamiento no usa ninguna
+2_Plate_2x4_180714155107.jpg,Plate_2x4,train,2,1,2_Plate_2x4_180714155107_p1.png,foto de dos piezas: entrenamiento no usa ninguna
+2_Plate_2x4_180714155107.jpg,Plate_2x4,train,2,2,2_Plate_2x4_180714155107_p2.png,foto de dos piezas: entrenamiento no usa ninguna; toca el borde
+2_Plate_2x4_180714155110.jpg,Plate_2x4,train,2,1,2_Plate_2x4_180714155110_p1.png,foto de dos piezas: entrenamiento no usa ninguna
+2_Plate_2x4_180714155110.jpg,Plate_2x4,train,2,2,2_Plate_2x4_180714155110_p2.png,foto de dos piezas: entrenamiento no usa ninguna; toca el borde
+2_Plate_2x4_180714162008.jpg,Plate_2x4,train,2,1,2_Plate_2x4_180714162008_p1.png,foto de dos piezas: entrenamiento no usa ninguna
+2_Plate_2x4_180714162008.jpg,Plate_2x4,train,2,2,2_Plate_2x4_180714162008_p2.png,foto de dos piezas: entrenamiento no usa ninguna; toca el borde
+2_Plate_2x4_180714162330.jpg,Plate_2x4,train,2,1,2_Plate_2x4_180714162330_p1.png,foto de dos piezas: entrenamiento no usa ninguna
+2_Plate_2x4_180714162330.jpg,Plate_2x4,train,2,2,2_Plate_2x4_180714162330_p2.png,foto de dos piezas: entrenamiento no usa ninguna
+2_Plate_2x4_180714162346.jpg,Plate_2x4,train,2,1,2_Plate_2x4_180714162346_p1.png,foto de dos piezas: entrenamiento no usa ninguna
+2_Plate_2x4_180714162346.jpg,Plate_2x4,train,2,2,2_Plate_2x4_180714162346_p2.png,foto de dos piezas: entrenamiento no usa ninguna

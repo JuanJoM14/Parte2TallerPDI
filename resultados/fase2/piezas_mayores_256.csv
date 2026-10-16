@@ -1,0 +1,5 @@
+archivo,clase,conjunto,uso,bloque,n_piezas,indice_pieza,es_central,etiquetada,toca_borde,caja_x,caja_y,caja_ancho,caja_alto,area_px,supera_256,nombre_roi
+2_Plate_2x4_180708193312.jpg,Plate_2x4,train,no_usada,1807081930,1,1,1,1,1,158,343,293,137,15925,1,2_Plate_2x4_180708193312_p1.png
+2_Plate_2x4_180714154546.jpg,Plate_2x4,train,no_usada,1807141540,2,1,0,0,0,91,159,235,284,30549,1,2_Plate_2x4_180714154546_p1.png
+2_Plate_2x4_180714162346.jpg,Plate_2x4,train,no_usada,1807141620,2,2,0,0,0,224,290,265,123,17351,1,2_Plate_2x4_180714162346_p2.png
+2_Plate_2x4_180714163614.jpg,Plate_2x4,val,val,1807141630,1,1,1,1,0,147,160,166,260,27871,1,2_Plate_2x4_180714163614_p1.png

@@ -1,0 +1,26 @@
+nombre_roi,clase_real,modelo,clase_predicha,probabilidad
+2_Brick_1x4_180714225521_p1.png,Brick_1x4,E1 Random Forest,Brick_2x2_L,0.3819
+2_Brick_1x4_180714225521_p1.png,Brick_1x4,E1 SVM RBF,Brick_2x2_L,0.9441
+2_Brick_1x4_180714225521_p1.png,Brick_1x4,E2 Random Forest,Brick_2x2_L,0.3832
+2_Brick_1x4_180714225521_p1.png,Brick_1x4,E2 SVM RBF,Brick_2x2_L,0.9459
+2_Brick_1x4_180714225521_p1.png,Brick_1x4,E4 Random Forest,Brick_2x2_L,0.51
+2_Brick_1x4_180714225521_p1.png,Brick_1x4,E5 SVM RBF,Brick_2x2_L,0.9828
+2_Brick_2x2_L_180708220955_p1.png,Brick_2x2_L,E1 Random Forest,Plate_2x2,0.596
+2_Brick_2x2_L_180708220955_p1.png,Brick_2x2_L,E1 SVM RBF,Plate_2x2,0.9804
+2_Brick_2x2_L_180708220955_p1.png,Brick_2x2_L,E2 SVM RBF,Plate_2x2,0.9803
+2_Brick_2x2_L_180708220955_p1.png,Brick_2x2_L,E5 SVM RBF,Plate_2x2,0.9807
+2_Plate_2x4_180708192513_p1.png,Plate_2x4,E1 Random Forest,Brick_1x4,0.362
+2_Plate_2x4_180708192513_p1.png,Plate_2x4,E1 SVM RBF,Brick_2x2_L,0.9548
+2_Plate_2x4_180708192513_p1.png,Plate_2x4,E2 SVM RBF,Brick_2x2_L,0.9932
+2_Plate_2x4_180708192513_p1.png,Plate_2x4,E5 SVM RBF,Brick_2x2_L,0.9906
+2_Plate_2x4_180708192624_p1.png,Plate_2x4,E1 Random Forest,Brick_1x4,0.368
+2_Plate_2x4_180708192647_p1.png,Plate_2x4,E1 Random Forest,Brick_1x4,0.434
+2_Plate_2x4_180708192813_p1.png,Plate_2x4,E1 SVM RBF,Brick_2x2_L,0.9469
+2_Plate_2x4_180708192813_p1.png,Plate_2x4,E2 SVM RBF,Brick_2x2_L,0.9455
+2_Plate_2x4_180708192813_p1.png,Plate_2x4,E5 SVM RBF,Brick_2x2_L,0.9348
+2_Plate_2x4_180708192839_p1.png,Plate_2x4,E1 Random Forest,Brick_1x4,0.41
+2_Plate_2x4_180708192906_p1.png,Plate_2x4,E1 Random Forest,Brick_1x4,0.406
+2_Plate_2x4_180708192952_p1.png,Plate_2x4,E1 Random Forest,Brick_1x4,0.342
+2_Plate_2x4_180708192952_p1.png,Plate_2x4,E1 SVM RBF,Plate_2x2,0.9975
+2_Plate_2x4_180708192952_p1.png,Plate_2x4,E2 SVM RBF,Plate_2x2,0.9976
+2_Plate_2x4_180708192952_p1.png,Plate_2x4,E5 SVM RBF,Plate_2x2,0.9999

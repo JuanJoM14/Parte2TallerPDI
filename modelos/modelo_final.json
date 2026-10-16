@@ -1,0 +1,21 @@
+{
+  "experimento": "E4",
+  "descriptores": "forma + lbp",
+  "clasificador": "svm_lineal",
+  "parametros": {
+    "C": 0.1
+  },
+  "columnas": 39,
+  "componentes_pca": "",
+  "accuracy_val": 1.0,
+  "f1_macro_val": 1.0,
+  "errores_val": 0,
+  "modelo": "E4_svm_lineal.joblib",
+  "entrada": "vector completo de 8139 columnas en el orden de caracteristicas\\*.npz",
+  "clases": [
+    "Brick_1x4",
+    "Brick_2x2_L",
+    "Plate_2x2",
+    "Plate_2x4"
+  ]
+}
