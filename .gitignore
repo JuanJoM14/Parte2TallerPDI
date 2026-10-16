@@ -8,6 +8,7 @@ datos_originales/
 
 # Notas internas de trabajo
 documentacion/
+informe/
 
 # Modelos: solo se suben el final y los de E4 (los demás se regeneran con Codigo/entrenar.py)
 modelos/*
