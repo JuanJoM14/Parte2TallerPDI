@@ -136,6 +136,7 @@ Taller 2\
 │   ├── generar_escenas.py    fase 6: escenas y variantes
 │   └── evaluar_escenas.py    fase 6: prueba de robustez
 ├── datos_originales\         banco de Kaggle (no se modifica)
+├── metodologia\              metodología, bibliotecas y técnicas, limitaciones
 ├── particiones\              partición y su README
 ├── roi\                      recortes de 128×128 y máscaras
 ├── caracteristicas\          vectores por conjunto
@@ -153,9 +154,15 @@ Taller 2\
 - **Banco:** todas las fotos son del mismo montaje (mismo fondo y cámara, dos días de julio de 2018); no hay fotos propias.
 - **Piezas cortadas por el borde de la foto:** la aplicación las marca; el modelo no se entrenó con ellas.
 
-## 9. Qué incluye este repositorio
+## 9. Más detalle
 
-- **Incluye:** el código, la partición del banco (`particiones\`), los recortes (`roi\`), las características (`caracteristicas\`), las escenas (`escenas\`), todos los resultados (`resultados\`), el modelo final y los modelos de E4 (`modelos\`) y el notebook de la Parte 1.
+- `metodologia\metodologia.md`: qué se hizo en cada fase, con qué parámetros, por qué y con qué resultados.
+- `metodologia\bibliotecas_y_tecnicas.md`: bibliotecas y técnicas de cada fase, con su justificación.
+- `metodologia\limitaciones.md`: limitaciones e incumplimientos del enunciado.
+
+## 10. Qué incluye este repositorio
+
+- **Incluye:** la metodología (`metodologia\`), el código, la partición del banco (`particiones\`), los recortes (`roi\`), las características (`caracteristicas\`), las escenas (`escenas\`), todos los resultados (`resultados\`), el modelo final y los modelos de E4 (`modelos\`) y el notebook de la Parte 1.
 - **No incluye:**
   - `datos_originales\`: se descarga de Kaggle (sección 3). Hace falta para correr los pasos 1, 2, 7 y 8 de la sección 5; la aplicación funciona sin él.
   - Los otros 12 modelos de `modelos\`, por tamaño (18 a 24 MB cada uno). Se regeneran con `Codigo\entrenar.py` (unos 3 minutos). `evaluar.py` los necesita, pero su resultado ya está en `resultados\fase5\`.
